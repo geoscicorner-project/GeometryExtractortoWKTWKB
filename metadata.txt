@@ -1,0 +1,17 @@
+[general]
+name=Geometry Extractor (WKT/WKB)
+qgisMinimumVersion=3.22
+description=Extract feature geometries as WKT or hexadecimal WKB from loaded QGIS vector layers, File Geodatabases, and Shapefiles.
+version=0.3.1
+author=GeosciCorner-Project
+email=geoscicorner@gmail.com
+about=Extract and inspect feature IDs, geometry types, WKT, and hexadecimal WKB from loaded QGIS vector layers, File Geodatabases, and Shapefiles. Export all extracted records to CSV. Geometry representations are generated from geometry objects without coordinate normalization or modification.
+category=Vector
+license=GPL-2.0-or-later
+tags=wkt,wkb,geometry,vector,export
+icon=icon.svg
+homepage=https://github.com/geoscicorner-project/GeometryExtractortoWKTWKB
+tracker=https://github.com/geoscicorner-project/GeometryExtractortoWKTWKB/issues
+repository=https://github.com/geoscicorner-project/GeometryExtractortoWKTWKB
+experimental=True
+deprecated=False
