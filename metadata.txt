@@ -13,5 +13,5 @@ icon=icon.svg
 homepage=https://github.com/geoscicorner-project/GeometryExtractortoWKTWKB
 tracker=https://github.com/geoscicorner-project/GeometryExtractortoWKTWKB/issues
 repository=https://github.com/geoscicorner-project/GeometryExtractortoWKTWKB
-experimental=True
+experimental=False
 deprecated=False
